@@ -16,7 +16,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 ## Overview
 
-### The challenge
+### Thechallenge
 
 Users should be able to:
 
@@ -26,15 +26,16 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+- Mobile View
+![Screenshot (76)](https://github.com/harjibbolar26/faq-accordion-card-FEMentors/assets/75395248/775950a5-2e6e-4151-ab62-d222c2e14e90)
+![Screenshot (77)](https://github.com/harjibbolar26/faq-accordion-card-FEMentors/assets/75395248/f35c529a-d489-4693-bea3-7b66fc0b0495)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+- Desktop View
+![Screenshot (79)](https://github.com/harjibbolar26/faq-accordion-card-FEMentors/assets/75395248/6536b261-5fb4-40a3-8f9f-9ae04eac7f4b)
+![Screenshot (81)](https://github.com/harjibbolar26/faq-accordion-card-FEMentors/assets/75395248/680ff09e-03bc-45c0-a3de-c0f7688277eb)
+![Screenshot (80)](https://github.com/harjibbolar26/faq-accordion-card-FEMentors/assets/75395248/79e1f223-ea0a-4571-89a8-c0df7f904c83)
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
@@ -54,6 +55,5 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/harjibbolar26)
+- Twitter - [@yourusername](https://www.twitter.com/jibbypaul)
